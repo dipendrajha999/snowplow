@@ -1,2 +1,2 @@
 # snowplow
-this is my first git repository. Author Dipendra Jha
+this is my first git repository. <br> Author Dipendra Jha
